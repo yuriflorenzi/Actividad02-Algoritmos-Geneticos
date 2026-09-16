@@ -1,10 +1,10 @@
-# Actividad 02: Algoritmos Genéticos en el Aprendizaje de Máquina
+Algoritmos Genéticos en el Aprendizaje de Máquina
 
 ## Equipo de Trabajo
 Este proyecto ha sido desarrollado de forma colaborativa por:
-1. [Nombre de Persona 1] - Feature Selection
-2. [Nombre de Persona 2] - Hyperparameter Optimization
-3. [Nombre de Persona 3] - Neuroevolution
+1. Cyntia Mariela Huanca Chahuara - Feature Selection
+2. Patty Milagros Turpo Quispe - Hyperparameter Optimization
+3. Edilza Carrasco Yupanqui - Neuroevolution
 4. Yuri Florentino Quispe Hualla - Integración, Calidad y Entregables
 
 ---
